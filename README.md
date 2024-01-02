@@ -34,6 +34,7 @@ The application features a modern and visually appealing design. The background 
 Feel free to contribute to the project by addressing any issues or suggesting improvements. Pull requests are welcome!
 ## Screenshots
 
-![App Screenshot](./images/Screenshot (12).png)
+![App Screenshot 1](images/Screenshot%20(12).png)
+
 
 
